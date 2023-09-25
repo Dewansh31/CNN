@@ -1,0 +1,30 @@
+0 Rasna
+1 Arive-Dantu
+2 Jackfruit
+3 Neem
+4 Basale
+5 Indian Mustard  
+6 Karanda
+7 Lemon
+8 Roxburgh fig
+9 Peepal
+10 Hibiscus Rosa-sinensis
+11 Jasmine
+12 Mango
+13 Mint
+14 Drumstick
+15 Jamaica Cherry-Gasagase
+16 Curry
+17 Oleander
+18 Parijata
+19 Tulsi
+20 Betel
+21 Mexican Mint
+22 Indian Beech
+23 Guava
+24 Pomegranate
+25 Sandalwood
+26 Jamun
+27 Rose Apple
+28 Crape Jasmine
+29 Fenugreek
