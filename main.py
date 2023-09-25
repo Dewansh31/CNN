@@ -2,7 +2,7 @@ import numpy as np
 import streamlit as st
 from PIL import Image, ImageOps  # Install pillow instead of PIL
 from keras.models import load_model  # TensorFlow is required for Keras to work
-import tensorflow as tf
+import tensorflow
 
 st.title('Medical Plant Classifier Using CNN')
 
